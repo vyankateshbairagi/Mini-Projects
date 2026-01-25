@@ -30,7 +30,7 @@ span {
     border: 2px solid black;
     border-radius: 25px;
     padding: 20px;
-    box-shadow: 5px 5px black;
+    box-shadow: 5px 5px 10px black;
 
 }
 
